@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 print(tf.__version__)
 
 import ssl
-
+print('begin.....')
 
 keep_prob = 0.95
 DROP_OUT= False
