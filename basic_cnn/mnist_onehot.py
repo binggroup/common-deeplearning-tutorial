@@ -17,6 +17,9 @@ print(tf.__version__)
 import ssl
 print('begin.....')
 
+print('begin.....')
+
+
 keep_prob = 0.95
 DROP_OUT= False
 
